@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204177895451",
+    "project_id": "androidnativo-dcb58",
+    "storage_bucket": "androidnativo-dcb58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204177895451:android:d408d08f03fd67c7a5c8be",
+        "android_client_info": {
+          "package_name": "com.example.androidnativo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAByszNeuBLHHqcAFZ2zRJ5n8NtE6FZufk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
